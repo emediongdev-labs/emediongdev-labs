@@ -1,6 +1,6 @@
 ## Hi, I'm Emediong Johnson. 👋
 
-Software Engineering Student at Miva Open University
+Software Engineering Student at Miva Open University | Frontend & AI Systems Developer
 
 ## About Me
 
