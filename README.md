@@ -1,16 +1,32 @@
-## Hi there 👋
+## Hi, I'm Emediong Johnson. 👋
 
-<!--
-**emediongdev-labs/emediongdev-labs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering Student at Miva Open University
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about software development, AI, and building technology solutions that solve real-world problems.
+
+## Currently Learning
+
+- HTML
+- CSS
+- JavaScript
+- TypeScript
+- React
+- AI & Automation
+- Cloud Fundamentals
+
+## Current Project
+
+🚀 My HTML Learning Hub
+
+## Goals for 2026
+
+- Grow as a Frontend and AI Solutions Developer
+- Build real-world projects
+- Strengthen my software engineering foundations
+
+## Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/emediongjohnson-dev
+- Email: emediongjohnson@gmail.com
